@@ -1,0 +1,13 @@
+{
+  "name": "Platform Spoof (Experimental Classic Port)",
+  "description": "Experimental Revenge Classic plugin that changes the platform properties on Discord gateway IDENTIFY.",
+  "authors": [
+    {
+      "name": "Community experimental port"
+    }
+  ],
+  "main": "src/index.js",
+  "vendetta": {
+    "icon": "ic_computer"
+  }
+}
